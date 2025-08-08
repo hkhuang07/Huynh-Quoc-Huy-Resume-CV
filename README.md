@@ -1,4 +1,4 @@
-# Huy Huynh 👋
+# Hi Guys - I'm Huynh Quoc Huy👋
 
 <p align="left">
   <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" height="200" style="border-thumbai: 50%; float: left; margin-right: 20px;">
@@ -154,5 +154,5 @@ Here are some of my key projects that demonstrate my skills in action. For a ful
 * **Teamwork & Collaboration:** 🤝 Experience collaborating effectively in group projects to achieve shared goals.
 * **Adaptability:** 🌀 Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
 * **Effective Communication:** 💬 Clear and concise in conveying technical information and collaborating with team members.
-* **Presentation: ** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
+* **Presentation:** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
 ---
