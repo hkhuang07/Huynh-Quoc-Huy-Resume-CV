@@ -1,12 +1,21 @@
-# Huy Huynh 👋
+# Hi Guys - I'm Huynh Quoc Huy 👋
 
-<p align="left">
-  <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" height="200" style="border-thumbai: 50%; float: left; margin-right: 20px;">
-  <div style="margin-left: 170px;">
-    <h2>**Software & Full Stack Development Intern**</h2>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" style="border-thumbai: 50%;">
+  <div>
+    <h2>👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Development Intern</h2>
     <h3>Seeking Software & Full Stack Engineer Roles</h3>
     <br>
     I am a passionate and dedicated student pursuing a career in software development. With a strong academic foundation and hands-on experience from various personal projects, I am eager to apply my skills in a professional setting. My journey in technology is driven by a curiosity to learn and a commitment to building robust, scalable, and efficient software solutions.
+  </div>
+</div>
+
+<br>
+
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="HuynhQuocHuy_Ressume_CV_page01.png" alt="CV Page 1" width="240" style="border-radius: 8px;">
+    <img src="HuynhQuocHuy_Ressume_CV_page02.png" alt="CV Page 2" width="240" style="border-radius: 8px;">
   </div>
 </p>
 
@@ -76,10 +85,10 @@ A detailed overview of my technical expertise, categorized by domain.
 * *An Giang, Vietnam [2022 – 2026] (Expected Graduation)*
 * **Major:** Information Technology
 * **Relevant Coursework:**
-  * **Software Development:** Information Management System Programming, Mobile Device Programming, Web Programming, PHP Web Technology, Analyze & Design Information System and OOP Software, Data Structure and Algorithms.
-  * **Data & AI:** Artificial Intelligence, Machine Learning, Data Mining, Oracle-SQL Server Database.
-  * **Systems & Networks:** Computer Architecture, Operating System, Computer Network, Network Communication Programming, Information Security, Network Administrator.
-  * **Emerging Technologies:** IoT Programming, Cloud Computing.
+    * **Software Development:** Information Management System Programming, Mobile Device Programming, Web Programming, PHP Web Technology, Analyze & Design Information System and OOP Software, Data Structure and Algorithms.
+    * **Data & AI:** Artificial Intelligence, Machine Learning, Data Mining, Oracle-SQL Server Database.
+    * **Systems & Networks:** Computer Architecture, Operating System, Computer Network, Network Communication Programming, Information Security, Network Administrator.
+    * **Emerging Technologies:** IoT Programming, Cloud Computing.
 
 ---
 
@@ -145,3 +154,14 @@ Here are some of my key projects that demonstrate my skills in action. For a ful
 * **Coffee:** Enjoying a good cup of coffee while coding or reading is a ritual.
 * **Reading:** I love reading books, both technical and non-technical, to broaden my knowledge.
 * **Fitness:** Going to the gym and playing sports helps me stay active and maintain a healthy work-life balance.
+
+---
+
+## 🤝 Soft Skills 💡
+
+* **Continuous Learning & Self-Discipline:** 📚 Highly self-motivated with a strong aptitude for continuous learning and a disciplined approach to daily work, consistently engaging with new concepts and technologies.
+* **Problem-solving:** 🔍 Aptitude for analyzing complex issues and developing effective solutions.
+* **Teamwork & Collaboration:** 🤝 Experience collaborating effectively in group projects to achieve shared goals.
+* **Adaptability:** 🌀 Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
+* **Effective Communication:** 💬 Clear and concise in conveying technical information and collaborating with team members.
+* **Presentation:** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone.
