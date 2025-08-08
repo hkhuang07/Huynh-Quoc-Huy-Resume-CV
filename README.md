@@ -3,7 +3,7 @@
 <p align="left">
   <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" height="200" style="border-thumbai: 50%; float: left; margin-right: 20px;">
   <div style="margin-left: 170px;">
-    <h2>**Software & Full Stack Development Intern**</h2>
+    <h2>👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Development Intern</h2>
     <h3>Seeking Software & Full Stack Engineer Roles</h3>
     <br>
     I am a passionate and dedicated student pursuing a career in software development. With a strong academic foundation and hands-on experience from various personal projects, I am eager to apply my skills in a professional setting. My journey in technology is driven by a curiosity to learn and a commitment to building robust, scalable, and efficient software solutions.
