@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-# Hi Guys - I'm Huynh Quoc Huy 👋
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" style="border-thumbai: 50%;">
-  <div>
-=======
 # Hi Guys - I'm Huynh Quoc Huy👋
 
 <p align="left">
   <img src="huyhuynh01.jpg" alt="Profile Picture" width="150" height="200" style="border-thumbai: 50%; float: left; margin-right: 20px;">
   <div style="margin-left: 170px;">
->>>>>>> f48ccd19ee3fd7442ac15ae98abd28ad6b48e890
     <h2>👨‍💻 Huynh Quoc Huy - Passionate Software & Full Stack Development Intern</h2>
     <h3>Seeking Software & Full Stack Engineer Roles</h3>
     <br>
@@ -164,10 +157,7 @@ Here are some of my key projects that demonstrate my skills in action. For a ful
 * **Fitness:** Going to the gym and playing sports helps me stay active and maintain a healthy work-life balance.
 
 ---
-<<<<<<< HEAD
 
-=======
->>>>>>> f48ccd19ee3fd7442ac15ae98abd28ad6b48e890
 ## 🤝 Soft Skills 💡
 
 * **Continuous Learning & Self-Discipline:** 📚 Highly self-motivated with a strong aptitude for continuous learning and a disciplined approach to daily work, consistently engaging with new concepts and technologies.
@@ -175,9 +165,5 @@ Here are some of my key projects that demonstrate my skills in action. For a ful
 * **Teamwork & Collaboration:** 🤝 Experience collaborating effectively in group projects to achieve shared goals.
 * **Adaptability:** 🌀 Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
 * **Effective Communication:** 💬 Clear and concise in conveying technical information and collaborating with team members.
-<<<<<<< HEAD
 * **Presentation:** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone.
-=======
-* **Presentation:** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
 ---
->>>>>>> f48ccd19ee3fd7442ac15ae98abd28ad6b48e890
