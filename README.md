@@ -145,3 +145,14 @@ Here are some of my key projects that demonstrate my skills in action. For a ful
 * **Coffee:** Enjoying a good cup of coffee while coding or reading is a ritual.
 * **Reading:** I love reading books, both technical and non-technical, to broaden my knowledge.
 * **Fitness:** Going to the gym and playing sports helps me stay active and maintain a healthy work-life balance.
+
+---
+## 🤝 Soft Skills 💡
+
+* **Continuous Learning & Self-Discipline:** 📚 Highly self-motivated with a strong aptitude for continuous learning and a disciplined approach to daily work, consistently engaging with new concepts and technologies.
+* **Problem-solving:** 🔍 Aptitude for analyzing complex issues and developing effective solutions.
+* **Teamwork & Collaboration:** 🤝 Experience collaborating effectively in group projects to achieve shared goals.
+* **Adaptability:** 🌀 Eager to embrace new technologies and methodologies, quickly adapting to evolving project requirements.
+* **Effective Communication:** 💬 Clear and concise in conveying technical information and collaborating with team members.
+* **Presentation: ** 💬 Ability to present content coherently, confidently, and in an understandable manner to everyone 
+---
